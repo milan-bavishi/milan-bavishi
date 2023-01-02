@@ -11,6 +11,7 @@
 ## About
 
 I am Milan Bavishi from India. I am a First-year undergraduate student at Devang Patel Institute of Advance Technology and Research(Charusat University - Changa). 
+learn coding....
 
  <img align="right" alt="GIF" src="./images/code.gif" width="300" height="210" />
 
