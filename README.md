@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/milanbavishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/milanbavishi" height="30" width="40" /></a>
+<a href="https://dev.to/milanbavishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/milanbavishi" height="30" width="40" /></a>
 <a href="https://twitter.com/bavishi_milan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bavishi_milan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/milan-bavishi-007ab424a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan-bavishi-007ab424a/" height="30" width="40" /></a>
 </p>
