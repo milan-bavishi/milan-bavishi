@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Milan Bavishi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milan-bavishi&label=Profile%20views&color=0e75b6&style=flat" alt="milan-bavishi" /> </p>
 
-- 🌱 I’m currently learning **Java, bootstrap , etc.**
+- 🌱 I’m currently learning **reactjs expressjs,Mongo etc.**
 
 - 📫 How to reach me **milanbavishi99@gmail.com**
 
